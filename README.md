@@ -15,7 +15,7 @@ Simple PHP Blockchain App Command List
 |getbalance			|Print Someone Balance 			| php bc.php getbalance $uid
 
 ## Detailed Usage
-`~$ php bc.php createblockchain "utkuhalis"`
-`~$ php bc.php getbalance "utkuhalis"`
-`~$ php bc.php send "from" "to" "amount"`
-`~$ php bc.php printchain`
+`~$ php bc.php createblockchain "utkuhalis"`<br>
+`~$ php bc.php getbalance "utkuhalis"`<br>
+`~$ php bc.php send "from" "to" "amount"`<br>
+`~$ php bc.php printchain`<br>
